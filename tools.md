@@ -9,3 +9,4 @@
  * 开源录屏软件：OBS(open broadcaster software) https://obsproject.com/zh-cn;  
  * 文件转换格式(批量)：File Converter https://file-converter.org/;  
  * 支持多种文件预览: kkFileView https://kkfileview.keking.cn/zh-cn/index.html
+ * 支持ts格式播放器：potplayer https://potplayer.daum.net/
